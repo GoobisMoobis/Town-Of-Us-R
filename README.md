@@ -1,6 +1,4 @@
-## I will be taking a break from modding, for at minimum another 3 months due to both burnout and university. Meanwhile please check out this alternative version of [Town of Us](https://github.com/AU-Avengers/TOU-Mira) (based off this mod) which should be maintained in my absence.
-
-## *Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.*
+## This is not the offical repository for Town-Of-Us-R! It is a fork meant to update it to the newest game version of Among Us.
 
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles.png)
