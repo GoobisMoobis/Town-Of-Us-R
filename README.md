@@ -43,6 +43,7 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
+| 17.2.x (i think??) | Unofficial v5.4.0 | [Download](https://github.com/GoobisMoobis/Town-Of-Us-R/releases/tag/v5.4.0)
 | 16.0.2s & 16.0.2e | v5.3.1 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.3.1/ToU.v5.3.1.zip) |
 | 16.0.2s & 16.0.2e | v5.3.0 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.3.0/ToU.v5.3.0.zip) |
 | 2024.10.29s & 2024.10.29e | v5.2.1 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v5.2.1/ToU.v5.2.1.zip) |
